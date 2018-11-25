@@ -1,5 +1,3 @@
-const Discord = require("discord.js");
-const RichEmbed = require("discord.js");
 const { Client, Util } = require('discord.js');
 const client = new Discord.Client();
 const prefix = "m!";
@@ -51,4 +49,4 @@ client.on('message', message => {
     }
   
   });
-  client.login("NTE2MjYwOTY4NDgxNjg1NTE1.DtxHVQ.GEDVga1j82x2KC1jb_AJTVm-a7s");
+  client.login("NDY5MTAyNzg0Nzg5MzQ4MzYy.DsMvQw.Or8dtTjzn3vZDgk1RL6BMI0eozw");
